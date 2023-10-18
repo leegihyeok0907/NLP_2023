@@ -20,3 +20,10 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells | [Code_Cells](https://github.com/leegihyeok0907/NLP_2023/blob/main/1_CodeCells.ipynb)|
+| 2 | Five Types of Data | [Data_Type](https://github.com/leegihyeok0907/NLP_2023/blob/main/2_Five_Types_of_Data.ipynb)|
+| 3 | Indexing Slicing | [Index_Slice](https://github.com/leegihyeok0907/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4.1 | IfStatement | [If](https://github.com/leegihyeok0907/NLP_2023/blob/main/4.1_IfStatement.ipynb)|
+| 4.2 | ForStatement | [For](https://github.com/leegihyeok0907/NLP_2023/blob/main/4.2_ForStatement.ipynb)|
+| 4.3 | TryExceptElseStatement | [Try_Excecpt_Else](https://github.com/leegihyeok0907/NLP_2023/blob/main/4.3_tryExceptElse_Statement.ipynb)|
+| 4.4 | WhileStatement | [While](https://github.com/leegihyeok0907/NLP_2023/blob/main/4.4_WhileStatementwContinueBreak.ipynb)|
+| 5 | Regular Expression | [Regular_Expression](https://github.com/leegihyeok0907/NLP_2023/blob/main/5_Regular_Expression.ipynb)|
