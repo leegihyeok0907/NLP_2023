@@ -19,5 +19,5 @@
 ### **5. Class Materials**
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
-| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
-| 2 | Code Cells 🐾 | [variable, assign](https://github.com/leegihyeok0907/NLP_2023/blob/main/CodeCells_Basic.ipynb)|
+| 1 | Code Cells | [variable, assign]([https://github.com/leegihyeok0907/NLP_2023/blob/main/1_CodeCells_Basic.ipynb]|
+| 2 | Code Cells | [variable, assign](https://github.com/leegihyeok0907/NLP_2023/blob/main/CodeCells_Basic.ipynb)|
