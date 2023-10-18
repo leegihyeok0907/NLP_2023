@@ -19,5 +19,6 @@
 ### **5. Class Materials**
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
-| 1 | Code Cells | [Code_Cells](https://github.com/leegihyeok0907/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
+| 1 | Code Cells | [Code_Cells](https://github.com/leegihyeok0907/NLP_2023/blob/main/1_CodeCells.ipynb)|
 | 2 | Five Types of Data | [Data_Type](https://github.com/leegihyeok0907/NLP_2023/blob/main/2_Five_Types_of_Data.ipynb)|
+https://github.com/leegihyeok0907/NLP_2023/blob/main/1_CodeCells.ipynb
